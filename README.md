@@ -1,2 +1,2 @@
 # Infinity-Scroll
-https://osvaldogrc.github.io/Infinity-Scroll/
+https://manbyothername.github.io/Infinity-Scroll/
